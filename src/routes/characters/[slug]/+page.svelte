@@ -10,7 +10,7 @@
 </script>
 
 <script lang="ts">
-	import type { CharacterType } from '../../types/types';
+	import type { CharacterType } from '../../../types/types';
 	export let character: CharacterType;
 </script>
 
