@@ -1,4 +1,4 @@
-# Breaking Bad characters-SvelteKit app
-This is a 'tutorial' project and my first experience with [SvelteKit](https://kit.svelte.dev/).
+# SvelteKit playground
+This is a 'playground app' where I test and play with [SvelteKit](https://kit.svelte.dev/).
 
 
